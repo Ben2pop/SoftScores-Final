@@ -85,7 +85,7 @@ sqlparse==0.2.4
 stripe==1.79.1
 text-unidecode==1.2
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
 wcwidth==0.1.7
