@@ -44,7 +44,7 @@ microsofttranslator==0.8
 misaka==2.1.0
 mixer==6.0.1
 mock==2.0.0
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.44
 ordereddict==1.1
 pandas==0.20.3
